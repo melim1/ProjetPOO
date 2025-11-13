@@ -1,11 +1,11 @@
 
-public abstract class CapteurConnectée {
+public abstract class CapteurConnecte {
     String id;
     String nom;
     Boolean estAbonné;
     double valeur;
 
-    public CapteurConnectée(String id, String nom){
+    public CapteurConnecte(String id, String nom){
         this.id=id;
         this.nom=nom;
         this.estAbonné=false;

@@ -1,5 +1,5 @@
 
-public class Balance extends CapteurConnectée {
+public class Balance extends CapteurConnecte {
     private double poids;
 
 

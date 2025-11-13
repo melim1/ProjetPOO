@@ -1,4 +1,4 @@
-public class Tensiometre extends CapteurConnectée {
+public class Tensiometre extends CapteurConnecte {
 
         private double tensionSystolique;
         private double tensionDiastolique;

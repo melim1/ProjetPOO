@@ -1,5 +1,5 @@
 
-public class Oxymetre extends CapteurConnectée{
+public class Oxymetre extends CapteurConnecte{
     private double spo2; // saturation en oxygène
 
     public Oxymetre(String id, String nom) {    
